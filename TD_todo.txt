@@ -1,11 +1,15 @@
 enemy 
 - healthbar
 - death anim
+- end game anim
 
 tower
 - model
 - special attack
 - missile
+
+base
+- destroy
 
 game
 - end game 
