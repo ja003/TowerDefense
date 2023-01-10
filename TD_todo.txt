@@ -3,12 +3,10 @@ enemy
 
 tower
 - model
-- special attack
 - missile
-- dont shoot dead
 
 base
 - destroy
 
 game
-- end game 
+- 
