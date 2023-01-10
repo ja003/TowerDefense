@@ -1,6 +1,4 @@
 enemy 
-- healthbar
-- death anim
 - end game anim
 
 tower
