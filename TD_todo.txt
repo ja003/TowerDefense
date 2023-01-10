@@ -1,9 +1,17 @@
+BUGS
+- enemies cant reach goal when too many - overcrowd
+- enemy sometimes not spawned
+
 enemy 
 - end game anim
 
 tower
 - model
 - missile
+
+path
+- texture is strectched
+- debug - simple path
 
 base
 - destroy
