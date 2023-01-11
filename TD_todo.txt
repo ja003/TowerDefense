@@ -5,9 +5,11 @@ enemy
 tower
 - model
 - missile
+- dont place near base
 
 path
 - texture is strectched
+- default path around base
 
 base
 - destroy anim
