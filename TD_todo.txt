@@ -5,14 +5,12 @@ enemy
 tower
 - model
 - missile
-- dont place near base
+- reset cooldown if no enemy attacked
 
 path
-- texture is strectched
-- default path around base
+- generate obstackles
 
 base
 - destroy anim
 
 game
-- 
