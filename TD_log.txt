@@ -1,0 +1,6 @@
+11.1.
+I had a problem with enemies having problem reaching their attack spot when there was already a horde of other enemies blocking their way. Navmesh agents dont take other agents into account.
+
+solution: add NavModifier component to enemies and activate it when enemy reches its attack spot. 
+
+note: to activate, call NavModifier.SetAreaClass(NavArea_Null) and to deactivate pass NULL parameter instead

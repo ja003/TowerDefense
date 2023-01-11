@@ -1,9 +1,6 @@
 BUGS
-- enemies cant reach goal when too many - overcrowd
-- enemy sometimes not spawned
 
 enemy 
-- end game anim
 
 tower
 - model
@@ -11,10 +8,9 @@ tower
 
 path
 - texture is strectched
-- debug - simple path
 
 base
-- destroy
+- destroy anim
 
 game
 - 
