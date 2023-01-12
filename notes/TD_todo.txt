@@ -1,9 +1,12 @@
 BUGS
 
 enemy 
+- assign closest free attack spot
 
 tower
 - missile
+- stop shoot at end game
+- dont place OOB
 
 path
 - generate obstackles
