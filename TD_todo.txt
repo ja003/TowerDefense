@@ -3,7 +3,6 @@ BUGS
 enemy 
 
 tower
-- model
 - missile
 - reset cooldown if no enemy attacked
 
