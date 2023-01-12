@@ -4,7 +4,6 @@ enemy
 
 tower
 - missile
-- reset cooldown if no enemy attacked
 
 path
 - generate obstackles
@@ -13,3 +12,4 @@ base
 - destroy anim
 
 game
+- tower cant shoot enemy behind base
