@@ -4,3 +4,10 @@ I had a problem with enemies having problem reaching their attack spot when ther
 solution: add NavModifier component to enemies and activate it when enemy reches its attack spot. 
 
 note: to activate, call NavModifier.SetAreaClass(NavArea_Null) and to deactivate pass NULL parameter instead
+
+11.1.
+Material on the path (spline mesh) wasnt scaling properly.
+
+solution: in material add WorldAlignedTexture node to BaseColor and Normal textures
+
+note: material must be marked as "Used with spline meshes)
