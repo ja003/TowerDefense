@@ -1,12 +1,15 @@
 BUGS
+- enemies walk weird path (offset)
 
 enemy 
 - assign closest free attack spot
+- get stronger with waves
 
 tower
 - missile
 - stop shoot at end game
 - dont place OOB
+- show range at place
 
 path
 - generate obstackles
