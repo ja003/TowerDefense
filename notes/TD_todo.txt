@@ -10,6 +10,7 @@ tower
 - stop shoot at end game
 - dont place OOB
 - show range at place
+- change mouse cursor when destroying
 
 path
 - generate obstackles
