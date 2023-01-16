@@ -10,7 +10,11 @@ Material on the path (spline mesh) wasnt scaling properly.
 
 solution: in material add WorldAlignedTexture node to BaseColor and Normal textures
 
-note: material must be marked as "Used with spline meshes)
+note: material must be marked as "Used with spline meshes"
 
 12.2.
 to generate path with otrhogonal turns set tangents to have the same X and Y coordinates
+
+
+16.1.
+navmesh is generated above ground and all placed agents flow in the air
