@@ -9,7 +9,6 @@ tower
 - missile
 - stop shoot at end game
 - dont place OOB
-- show range at place
 - change mouse cursor when destroying
 
 path
@@ -20,4 +19,3 @@ base
 
 game
 - tower cant shoot enemy behind base
-- input system
