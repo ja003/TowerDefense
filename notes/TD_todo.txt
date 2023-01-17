@@ -3,21 +3,15 @@ BUGS
 
 enemy 
 - assign closest free attack spot
-- healthbar casts shadow!
 
 tower
 - missile
-- stop shoot at end game
 - dont place OOB
 - change mouse cursor when destroying
 
 path
-- generate obstackles
 
 base
 - destroy anim
 
 game
-- tower cant shoot enemy behind base
-- restart game
-- add coins when wave is killed
