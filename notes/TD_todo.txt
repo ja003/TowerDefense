@@ -3,7 +3,7 @@ BUGS
 
 enemy 
 - assign closest free attack spot
-- get stronger with waves
+- healthbar casts shadow!
 
 tower
 - missile
