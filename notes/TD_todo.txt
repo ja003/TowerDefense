@@ -19,3 +19,5 @@ base
 
 game
 - tower cant shoot enemy behind base
+- restart game
+- add coins when wave is killed
